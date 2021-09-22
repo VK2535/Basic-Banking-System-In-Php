@@ -11,7 +11,7 @@
 </head>
 <body>
 <?php
-  require_once 'config.php';
+  //require_once 'config.php';
   include 'navbar.php';
   ?>
     <h1 class="glow1">WELCOME TO TSF BANK</h1>
